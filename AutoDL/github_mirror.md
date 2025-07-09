@@ -1,0 +1,1 @@
+Replace github.com in the url by githubfast.com
